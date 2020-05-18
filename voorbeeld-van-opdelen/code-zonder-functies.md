@@ -33,12 +33,13 @@ while doorgaan:
 
   raden = True
   while raden:
-    # Eruit?
-    try:
-      gok = int(input("Wat denk je dat het is? "))
-    except:
-      print("Geef een geheel getal...")
+    gok = input("Wat denk je dat het is? ")
+
+    if not gok.isdigit():
+      print("Voer een geheel getal in!")
       continue
+    
+    gok = int(gok)
 
     aantal_keer += 1
 
@@ -62,7 +63,9 @@ while doorgaan:
     doorgaan = False
 ```
 
+Best een bak code! En erg onoverzichtelijk. Waar zitten de herhalingen? Wat gebeurt er bij welke herhaling? We gaan nu proberen dit op een nette manier op te delen in functies.
+
 ### Hoger lager spel met functies
 
-
+&lt;nog maken&gt;
 
