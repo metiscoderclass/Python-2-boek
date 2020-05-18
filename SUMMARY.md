@@ -8,6 +8,10 @@
 * [Oefenopdracht Rekenmachine](uitleg-en-oefenen/oefenopdracht.md)
 * [Oefenopdracht Rekenmachine: Antwoord](uitleg-en-oefenen/oefenopdracht-rekenmachine-antwoord.md)
 
+## Voorbeeld van opdelen
+
+* [Code zonder functies](voorbeeld-van-opdelen/code-zonder-functies.md)
+
 ## Eindopdrachten
 
 * [Galgje](eindopdrachten/galgje.md)
