@@ -1,4 +1,4 @@
-# Hoofdstuk 1 - Programma opdelen in functies
+# Programma opdelen in functies
 
 Je hebt tot nu toe steeds heel kleine programma’s geschreven van misschien maximaal 20 regels code. Als je grotere programma’s gaat schrijven zul je zien dat code al snel onoverzichtelijk en onduidelijk wordt. Om toch weer structuur aan te brengen ga je nu leren hoe je een programma kunt opdelen in functies.
 

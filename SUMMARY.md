@@ -4,7 +4,7 @@
 
 ## Uitleg en oefenen
 
-* [Hoofdstuk 1 - Programma opdelen in functies](uitleg-en-oefenen/les-1-programma-opdelen-in-functies.md)
+* [Programma opdelen in functies](uitleg-en-oefenen/les-1-programma-opdelen-in-functies.md)
 * [Oefenopdracht Rekenmachine](uitleg-en-oefenen/oefenopdracht.md)
 * [Oefenopdracht Rekenmachine: Antwoord](uitleg-en-oefenen/oefenopdracht-rekenmachine-antwoord.md)
 
