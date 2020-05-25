@@ -2,8 +2,6 @@
 
 Hieronder volgt een voorbeeldantwoord van de oefenopdracht rekenmachine. Jouw antwoord kan natuurlijk anders zijn! Let er op dat je een vergelijkbare opdeling in functies hebt.
 
-Je vindt het antwoord ook hier: [https://repl.it/@hakkas/Python-2-Rekenmachine](https://repl.it/@hakkas/Python-2-Rekenmachine)
-
 ```python
 ## Rekenmachine
 
@@ -59,4 +57,10 @@ def rekenmachine():
 
 rekenmachine()
 ```
+
+Je vindt het antwoord ook hier:
+
+{% embed url="https://repl.it/@hakkas/Python-2-Rekenmachine" %}
+
+
 

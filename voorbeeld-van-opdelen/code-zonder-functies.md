@@ -10,7 +10,15 @@ Kijk ook het filmpje hierover:
 
 In deze versie van de code hebben we geen gebruik gemaakt van functies. Lees de code eens door en kijk of het duidelijk is wat er allemaal gebeurt. Daarna gaan we het programma opdelen in functies.
 
-Je vindt deze code ook hier: [https://repl.it/@hakkas/Python-2-Uitleg](https://repl.it/@hakkas/Python-2-Uitleg)
+Je vindt dit programma ook hier: 
+
+{% embed url="https://repl.it/@hakkas/Python-2-Uitleg" %}
+
+Best een bak code! En erg onoverzichtelijk. Waar zitten de herhalingen? Wat gebeurt er bij welke herhaling? We gaan nu proberen dit op een nette manier op te delen in functies.
+
+### Volledige programmacode
+
+Voor het overzicht zie je hieronder de volledige code.
 
 ```python
 import random
@@ -22,10 +30,10 @@ print("Welkom bij dit spel!\n"
 
 naam = input("Hoe heet je? ")
 doorgaan = True
-aantal_keer = 0
 MAX_KEER = 6
 
 while doorgaan:
+  aantal_keer = 0
   geheim = random.randint(1, 129)
   print("Welkom " + naam + "\n"
         "We gaan spelen!\n"
@@ -66,8 +74,6 @@ while doorgaan:
   if not keuze == "ja":
     doorgaan = False
 ```
-
-Best een bak code! En erg onoverzichtelijk. Waar zitten de herhalingen? Wat gebeurt er bij welke herhaling? We gaan nu proberen dit op een nette manier op te delen in functies.
 
 
 
