@@ -115,5 +115,5 @@ In deze module verder niet in waarom we dat precies nodig hebben. Als je wilt we
 
 ### Nawoord: Veel meer code?
 
-Natuurlijk hadden we veel minder code kunnen gebruiken als we geen functies hadden gemaakt. Een todolijstje maken is ook een simpel probleem. Dus we proberen je hier te leren hoe je een probleem opdeelt in stukjes en het programma leesbaar houdt. 
+Natuurlijk hadden we veel minder code kunnen gebruiken als we geen functies hadden gemaakt. Een todolijstje maken is ook een simpel probleem. Dus we proberen je hier te leren hoe je een probleem opdeelt in stukjes en het programma leesbaar houdt. Dit is meestal belangrijker dan dat je weinig code schrijft.
 
