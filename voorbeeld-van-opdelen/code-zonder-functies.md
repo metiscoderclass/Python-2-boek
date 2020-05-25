@@ -1,8 +1,12 @@
-# Code zonder functies
+# Programma zonder functies
 
 ### Hoger lager spel
 
 We hebben een voorbeeldcode geschreven voor het spelletje 'Hoger Lager'. Je gaat een getal raden en je krijgt steeds een hint of je te hoog zit, te laag zit of precies goed.
+
+Kijk ook het filmpje hierover:
+
+{% embed url="https://youtu.be/wj5l\_jgoEk8" %}
 
 In deze versie van de code hebben we geen gebruik gemaakt van functies. Lees de code eens door en kijk of het duidelijk is wat er allemaal gebeurt. Daarna gaan we het programma opdelen in functies.
 
@@ -65,7 +69,5 @@ while doorgaan:
 
 Best een bak code! En erg onoverzichtelijk. Waar zitten de herhalingen? Wat gebeurt er bij welke herhaling? We gaan nu proberen dit op een nette manier op te delen in functies.
 
-### Hoger lager spel met functies
 
-&lt;nog maken&gt;
 
