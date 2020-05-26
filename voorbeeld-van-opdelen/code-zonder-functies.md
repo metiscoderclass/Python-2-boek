@@ -10,7 +10,7 @@ Kijk ook het filmpje hierover:
 
 In deze versie van de code hebben we geen gebruik gemaakt van functies. Lees de code eens door en kijk of het duidelijk is wat er allemaal gebeurt. Daarna gaan we het programma opdelen in functies.
 
-Je vindt dit programma ook hier: 
+Je vindt dit programma ook hier:[https://repl.it/@hakkas/Python-2-Uitleg\#main.py](https://repl.it/@hakkas/Python-2-Uitleg#main.py)
 
 {% embed url="https://repl.it/@hakkas/Python-2-Uitleg" %}
 
