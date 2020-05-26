@@ -111,7 +111,7 @@ Je ziet nu onderin je code welke stappen het programma zet. Dit zijn maar 7 rege
 
 Je ziet een nieuw woord in de code staan:  `global`. Dit is in dit programma nodig omdat we geen parameters hebben gebruikt. `global` zorgt ervoor dat je variabelen die je bovenin je programma hebt gedefinieerd kunt veranderen in je functie. In de volgende Python module ga je leren hoe je dit netter kan doen zonder `global`te gebruiken.
 
-In deze module verder niet in waarom we dat precies nodig hebben. Als je wilt weten hoe het met global kan, ga dan eens zoeken op `parameters`, `return`, lokale en globale variabelen. Of vraag het aan je docent!
+In deze module gaan we er verder niet op in waarom we dat precies nodig hebben. Als je wilt weten hoe het ZONDER global kan, ga dan eens zoeken op `parameters`, `return`, lokale en globale variabelen. Of vraag het aan je docent!
 
 ### Nawoord: Veel meer code?
 
