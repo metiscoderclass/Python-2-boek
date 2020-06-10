@@ -6,6 +6,8 @@ We hebben nu functies gemaakt om de code van ons hoger lager spel beter te struc
 
 Je kunt het spel ook hier bekijken proberen:  [https://repl.it/@hakkas/Python-2-Uitleg-Met-functies\#main.py](https://repl.it/@hakkas/Python-2-Uitleg-Met-functies#main.py)
 
+
+
 {% embed url="https://repl.it/@hakkas/Python-2-Uitleg-Met-functies" %}
 
 ### Volledige programmacode

@@ -13,6 +13,10 @@
 * [Programma zonder functies](voorbeeld-van-opdelen/code-zonder-functies.md)
 * [Programma met functies](voorbeeld-van-opdelen/programma-met-functies.md)
 
+## Pseudocode
+
+* [Untitled](pseudocode/untitled.md)
+
 ## Eindopdrachten
 
 * [Algemeen](eindopdrachten/algemeen.md)
