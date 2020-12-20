@@ -21,5 +21,8 @@
 
 * [Algemeen](eindopdrachten/algemeen.md)
 * [Galgje](eindopdrachten/galgje.md)
+
+---
+
 * [Checklists](checklists.md)
 

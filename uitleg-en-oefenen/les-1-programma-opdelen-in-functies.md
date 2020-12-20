@@ -34,7 +34,7 @@ Goed leesbare code is veel makkelijker te onderhouden.
 
 #### Introductie
 
-Voor het maken van een todolijstje kun je bijvoorbeeld het volgende doen:
+Voor het maken van een todolijstje kun je bijvoorbeeld het volgende doen \(in pseudo code, dus geen echte code!\):
 
 ```python
 herhaal steeds:
