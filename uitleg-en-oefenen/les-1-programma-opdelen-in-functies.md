@@ -77,7 +77,7 @@ item = ""
 def vraag_item():
   # global hebben we nodig omdat we item willen bewerken
   global item
-  item = print("Welk item wilt u toevoegen? ")
+  item = input("Welk item wilt u toevoegen? ")
 
 def voeg_item_toe():
   global todolijst
