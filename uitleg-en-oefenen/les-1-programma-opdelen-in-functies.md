@@ -16,25 +16,25 @@ tekenvierkant(50)
 tekenvierkant(100)
 ```
 
-  De functie heeft hier meerdere voordelen:
+&#x20; De functie heeft hier meerdere voordelen:
 
-* In de naam van de functie kun je ziet wat hij doet \(overzicht\)
+* In de naam van de functie kun je ziet wat hij doet (overzicht)
 * Je kunt de code in de functie steeds opnieuw gebruiken
-* Als je iets wilt wijzigen hoef je dat maar op een plek te doen \(minder kans op foutjes\)
+* Als je iets wilt wijzigen hoef je dat maar op een plek te doen (minder kans op foutjes)
 
 Voor de structuur van je programma is de eerste eigenschap heel belangrijk:
 
 * De naam van een functie vertelt je wat deze doet.
 
-Waarom is dat nou belangrijk? Code die gemaakt wordt meestal maar 1 keer geschreven en daarna heel vaak gelezen. Door jezelf, maar ook door anderen!  
-Goed leesbare code is veel makkelijker te onderhouden.  
+Waarom is dat nou belangrijk? Code die gemaakt wordt meestal maar 1 keer geschreven en daarna heel vaak gelezen. Door jezelf, maar ook door anderen!\
+Goed leesbare code is veel makkelijker te onderhouden.\
 
 
 ### Voorbeeldprogramma: Todolijstje
 
 #### Introductie
 
-Voor het maken van een todolijstje kun je bijvoorbeeld het volgende doen \(in pseudo code, dus geen echte code!\):
+Voor het maken van een todolijstje kun je bijvoorbeeld het volgende doen (in pseudo code, dus geen echte code!):
 
 ```python
 herhaal steeds:
@@ -43,9 +43,10 @@ herhaal steeds:
   print het lijstje
 
   vraag of je door wilt gaan of stoppen
+  als antwoord "ja" is dan stop
 ```
 
-Hier zie je in stapjes wat je programma gaat doen. Vaak kun je dat dan direct omzetten in functies!  
+Hier zie je in stapjes wat je programma gaat doen. Vaak kun je dat dan direct omzetten in functies!\
 Dus het hoofddeel van je programma ziet er dan zo uit:
 
 ```python
@@ -60,7 +61,7 @@ while doorgaan:
     doorgaan = False
 ```
 
-Simpel he?  
+Simpel he?\
 
 
 #### Volledige programma: Todolijst
@@ -116,4 +117,3 @@ In deze module gaan we er verder niet op in waarom we dat precies nodig hebben. 
 ### Nawoord: Veel meer code?
 
 Natuurlijk hadden we veel minder code kunnen gebruiken als we geen functies hadden gemaakt. Een todolijstje maken is ook een simpel probleem. Dus we proberen je hier te leren hoe je een probleem opdeelt in stukjes en het programma leesbaar houdt. Dit is meestal belangrijker dan dat je weinig code schrijft.
-

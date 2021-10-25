@@ -62,5 +62,3 @@ Je vindt het antwoord ook hier:
 
 {% embed url="https://repl.it/@hakkas/Python-2-Rekenmachine" %}
 
-
-

@@ -4,7 +4,7 @@ We hebben nu functies gemaakt om de code van ons hoger lager spel beter te struc
 
 {% embed url="https://youtu.be/f1Llvi6TKyk" %}
 
-Je kunt het spel ook hier bekijken proberen:  [https://repl.it/@hakkas/Python-2-Uitleg-Met-functies\#main.py](https://repl.it/@hakkas/Python-2-Uitleg-Met-functies#main.py)
+Je kunt het spel ook hier bekijken proberen:  [https://repl.it/@hakkas/Python-2-Uitleg-Met-functies#main.py](https://repl.it/@hakkas/Python-2-Uitleg-Met-functies#main.py)
 
 
 
@@ -83,4 +83,3 @@ while doorgaan:
   if not keuze == "ja":
     doorgaan = False
 ```
-

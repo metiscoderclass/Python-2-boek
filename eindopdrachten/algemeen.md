@@ -6,5 +6,3 @@ Lees op de wiki welke eindopdrachten er zijn:
 
 {% embed url="https://coderclass.infvo.nl/wiki/index.php/Modules/Python-2" %}
 
-
-

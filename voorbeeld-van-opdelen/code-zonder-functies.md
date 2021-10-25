@@ -6,11 +6,11 @@ We hebben een voorbeeldcode geschreven voor het spelletje 'Hoger Lager'. Je gaat
 
 Kijk ook het filmpje hierover:
 
-{% embed url="https://youtu.be/wj5l\_jgoEk8" %}
+{% embed url="https://youtu.be/wj5l_jgoEk8" %}
 
 In deze versie van de code hebben we geen gebruik gemaakt van functies. Lees de code eens door en kijk of het duidelijk is wat er allemaal gebeurt. Daarna gaan we het programma opdelen in functies.
 
-Je vindt dit programma ook hier:[https://repl.it/@hakkas/Python-2-Uitleg\#main.py](https://repl.it/@hakkas/Python-2-Uitleg#main.py)
+Je vindt dit programma ook hier:[https://repl.it/@hakkas/Python-2-Uitleg#main.py](https://repl.it/@hakkas/Python-2-Uitleg#main.py)
 
 {% embed url="https://repl.it/@hakkas/Python-2-Uitleg" %}
 
@@ -74,6 +74,4 @@ while doorgaan:
   if not keuze == "ja":
     doorgaan = False
 ```
-
-
 
