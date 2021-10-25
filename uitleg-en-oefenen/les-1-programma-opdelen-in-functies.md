@@ -7,13 +7,13 @@ Je hebt tot nu toe steeds heel kleine programma’s geschreven van misschien max
 Je hebt al kennis gemaakt met functies in Python, denk maar eens aan de tekenvierkant functie in Python 0:
 
 ```python
-def tekenvierkant(lengte):
+def teken_vierkant(lengte):
   for _ in range(4):
     turtle.forward(lengte)
     turtle.left(90)
 
-tekenvierkant(50)
-tekenvierkant(100)
+teken_vierkant(50)
+teken_vierkant(100)
 ```
 
 &#x20; De functie heeft hier meerdere voordelen:
